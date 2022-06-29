@@ -30,6 +30,19 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
+            "coordinates": [-77.01630005767282, 38.88359940256533]
+        },
+        "properties": {
+            "name": "Andy Harris",
+            "type": "Genius",
+            "location": "Washington DC",
+            "description": "Boss of the known universe"
+        },
+        "id": "1ec6b5c7-882f-4a88-841e-a8556ff6ae9c"
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
             "coordinates": [-120.9068551, 35.3780764]
         },
         "properties": {
